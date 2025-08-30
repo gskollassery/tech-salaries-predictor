@@ -1,0 +1,7 @@
+tech-salaries-predictor/
+├── README.md
+├── requirements.txt
+├── tech_salaries_analysis.ipynb
+├── .gitignore
+└── data/
+    └── .gitkeep
